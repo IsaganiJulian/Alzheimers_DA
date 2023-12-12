@@ -11,3 +11,5 @@ This data set originally had 250937 rows × 39 columns about healthy aging and A
 My analysis focuses on the specific questions asked from this data set found in the 'Question' column,
 with the corresponding values found in the 'Percentage' or 'Mean' column. The data was filtered for EDA and visualized based on the questions, gender, race/ethnicity, age group, and year started.
 
+This project includes files showcasing my process for data cleaning and validation, as well as my exploratory analysis of the data set. 
+
